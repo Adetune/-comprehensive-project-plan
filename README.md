@@ -1,4 +1,4 @@
-# comprehensive-project-plan
+# Refine Production Planning: Utilize Customer Segmentation & Data Insights for Supply Chain
 # Table of contents 
 
 
